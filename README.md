@@ -1,4 +1,9 @@
-### Hi there 👋
+<h2> Hi, I'm Deva! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+[![Linkedin: devajayantha](https://img.shields.io/badge/-devajayanhta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deva-jayantha/)](https://www.linkedin.com/in/deva-jayantha/)
+[![GitHub Devajayantha](https://img.shields.io/github/followers/devajayantha?label=follow&style=social)](https://github.com/devajayantha)
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--
 **Devajayantha/Devajayantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
